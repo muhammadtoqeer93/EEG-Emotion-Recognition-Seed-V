@@ -23,3 +23,5 @@ df = get_Sessiondata_frame(session1, start_second1, end_second1, label1, selecte
 df.to_csv('outputs/session1.csv', index=False)
 
 print("session1.csv created successfully.")
+
+#Exit
